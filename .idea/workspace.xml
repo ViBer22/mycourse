@@ -5,6 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e47c383-c455-4d16-a439-20bca3e14040" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/veckouppgift_2/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_2/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_2/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_2/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_2/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_3/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_3/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_3/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_3/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_3/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_3/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_4/pokerhand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_4/spelet21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_4/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_4/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_4/turtle_graphics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_5/soka_efter_anvandare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_5/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/veckouppgift_5/task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -43,15 +63,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.task 1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.task 1.executor": "Run",
+    "Python.task2.executor": "Run",
+    "Python.task4.executor": "Run",
+    "Python.task5.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
