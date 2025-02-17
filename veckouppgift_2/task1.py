@@ -17,12 +17,14 @@ if price >= level2:
 final_price = price*(100-discount)/100
 print("Efter rabbater blir priset…" +final_price)
 
-# Code Review
+'''
+ Code Review
 
-# Syftet med koden
-# Syftet verkar vara att ge rabatt baserat på köpesumman.
-# Om en kund handlar för mer än 100 får de 10% rabatt (nivå 1), och om de handlar för minst 300 får de 25% rabatt (nivå 2).
-# Det slutliga priset beräknas genom att subtrahera rabatten från det ursprungliga priset.
+Syftet med koden
+Syftet verkar vara att ge rabatt baserat på köpesumman.
+Om en kund handlar för mer än 100 får de 10% rabatt (nivå 1), och om de handlar för minst 300 får de 25% rabatt (nivå 2).
+Det slutliga priset beräknas genom att subtrahera rabatten från det ursprungliga priset.
+'''
 
 level_1 = 100
 level_2 = 300
@@ -57,8 +59,10 @@ if is_member:
 
 print(f"Efter rabatter blir priset: {final_price} kr")
 
-# Förbättringar :
-# fixat rabattlogiken - kunden får endast den högsta rabatten, ingen stapling
-# lagt till medlemsrabatt - extra 5% rabatt för medlemmar om is_member = True
-# felhantering för inmatning - programmet kraschar inte om användaren matar in fel värde
-# rundar priset till två decimaler -  snyggare utskrift
+'''
+Förbättringar :
+fixat rabattlogiken - kunden får endast den högsta rabatten, ingen stapling
+lagt till medlemsrabatt - extra 5% rabatt för medlemmar om is_member = True
+felhantering för inmatning - programmet kraschar inte om användaren matar in fel värde
+rundar priset till två decimaler -  snyggare utskrift
+'''

@@ -65,5 +65,7 @@ for i in range(total_games):
     print(f"\n--- Spel {i + 1} ---")
     total_wins += play_game() or 0
 
-print(f"\nDu vann totalt {total_wins} av {total_games} spel!")
+print(f"\nDu vann totalt {total_wins} av {total_games} spel! Du är en vinnare!")
 
+
+# Gjorde ett spel med 3 omgångar varefter vinnaren räknas ut.
